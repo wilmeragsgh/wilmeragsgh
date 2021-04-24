@@ -2,7 +2,11 @@
 
 I'm Wilmer Gonzalez (wilmerags* almost everywhere)
 
-- 🔭 I’m currently working on Machine Learning Engineering related projects with UNDP, Quash, Omdena and a massive start-up project coming soon.
+- 🔭 I’m currently working on Machine Learning Engineering related projects with:
+    - UNDP
+    - [quash.ai](https://quash.ai)
+    - [omdena.com](https://omdena.com)
+    - and a massive start-up project coming soon!!
 - 🌱 I’m currently learning Vue
 - 👯 I’m looking to collaborate on NLP related projects
 - 🤔 I’m looking for help with Vue and other front-end technologies
