@@ -7,7 +7,7 @@ I'm Wilmer Gonzalez (wilmerags* almost everywhere)
     - [quash.ai](https://quash.ai)
     - [omdena.com](https://omdena.com)
     - and a massive start-up project coming soon!!
-- 🌱 I’m currently learning Vue
+- 🌱 I’m currently learning Vue and Flutter
 - 👯 I’m looking to collaborate on NLP related projects
 - 🤔 I’m looking for help with Vue and other front-end technologies
 - 💬 Ask me about whatever you feel based on what I share
