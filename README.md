@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wilmer Gonzalez ([wilmerags*](https://linktr.ee/wilmerags) almost everywhere)
+I'm Wilmer Gonzalez ([wilmerags](https://linktr.ee/wilmerags) prefix almost everywhere)
 
 - 🤖 Machine Learning Engineer at [circleup](https://circleup.com)
 - 📘 Most interested in NLP.
