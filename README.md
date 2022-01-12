@@ -2,7 +2,7 @@
 
 I'm Wilmer Gonzalez ([wilmerags*](https://linktr.ee/wilmerags) almost everywhere)
 
-- 🤖 Machine Learning Engineer @: [undp](https://www.ve.undp.org/), [quash](https://quash.ai) and [omdena](https://omdena.com)
+- 🤖 Machine Learning Engineer @: [circleup](https://circleup.com)
 - 🌱 Learning Vue and Flutter.
 - 📘 Most interested in NLP.
 
