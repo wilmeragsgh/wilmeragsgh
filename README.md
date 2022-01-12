@@ -2,7 +2,7 @@
 
 I'm Wilmer Gonzalez ([wilmerags*](https://linktr.ee/wilmerags) almost everywhere)
 
-- 🤖 Machine Learning Engineer @: [circleup](https://circleup.com)
+- 🤖 Machine Learning Engineer at [circleup](https://circleup.com)
 - 🌱 Learning Vue and Flutter.
 - 📘 Most interested in NLP.
 
