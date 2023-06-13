@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Wilmer Gonzalez ([wilmerags](https://linktr.ee/wilmerags) prefix almost everywhere)
+I'm Wilmer Gonzalez ([wilmerags](https://wilmerags.com) prefix almost everywhere)
 
-- 🤖 Machine Learning Engineer at [circleup](https://circleup.com)
+- 🤖 Machine Learning Engineer
 - 📘 Most interested in NLP.
 - 🌱 Learning web technologies (react/vue and flutter).
 
